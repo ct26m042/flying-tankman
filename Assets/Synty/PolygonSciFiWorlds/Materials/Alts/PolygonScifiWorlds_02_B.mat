@@ -34,14 +34,12 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: PolygonScifiWorlds_02_B
-  m_Shader: {fileID: -6465566751694194690, guid: 0730dae39bc73f34796280af9875ce14, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 806bf81c8df80e347a0360f66998e10f, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _ALPHATEST_ON
-  m_InvalidKeywords:
-  - _EMISSION
-  - _NORMALMAP
+  m_InvalidKeywords: []
   m_LightmapFlags: 3
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0

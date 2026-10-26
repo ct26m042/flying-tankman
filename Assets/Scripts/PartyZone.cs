@@ -57,7 +57,7 @@ public class PartyZone : MonoBehaviour
             Transform guest = partyGuests[i].transform;
             Quaternion target = startRotations[i];
 
-            if (spaceship is not null)
+            if (spaceship != null)
             {
                 Vector3 toShip = spaceship.position - guest.position;
                 toShip.y = 0f;
